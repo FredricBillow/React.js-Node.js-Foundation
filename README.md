@@ -1,2 +1,2 @@
-# React.js-Node.js-Foundation
+# React.js + Node.js Foundation
 Project Foundation for the React.js + Node.js stack
